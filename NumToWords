@@ -1,3 +1,5 @@
+// This is console application where it accepts the input and spell it in words.
+
 using System;
 class NumberToWords
 {
